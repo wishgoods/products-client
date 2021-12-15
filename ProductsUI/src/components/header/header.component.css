@@ -1,0 +1,21 @@
+.box-with-border
+{
+    border-bottom: solid 5px green;
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+h4{
+    width: 100%;
+    text-align: center;
+    opacity: 1;
+    animation: fade 2s linear;
+}
+
+@keyframes fade {
+    0%,100% { opacity: 0 }
+    50% { opacity: 1 }
+  }

@@ -1,0 +1,31 @@
+.content-box{
+    
+    height: fit-content;
+    display:grid;
+    place-items: center;
+   
+}
+h4{
+    text-align: center;
+    
+}
+h2{
+    
+    position: sticky;
+    border-bottom: solid 2px black;}
+#products-table {
+    text-align: center;
+    align-self:  center;
+    border: 1px solid black;
+    width: fit-content;
+
+   
+  }
+
+
+.custom-scrollbar {
+  
+    height: 400px;
+    overflow: auto;
+}
+

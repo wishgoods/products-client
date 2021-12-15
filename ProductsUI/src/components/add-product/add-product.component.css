@@ -1,0 +1,22 @@
+.content-box{
+    
+    height: fit-content;
+    display:grid;
+    place-items: center;
+   
+}
+h4,small{
+    text-align: center;
+    
+}
+h2{border-bottom: 1px solid black;}
+
+#products-table {
+    text-align: center;
+    align-self:  center;
+    border: 1px solid black;
+    width: fit-content;
+    height: fit-content;
+    
+    
+  }
